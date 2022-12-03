@@ -110,8 +110,8 @@ def part2(inputfile):
     return answer
 
 
-#print("Part 1 test answer = ", part1('day02input-testcase1.txt'))
-#print("Part 1 answer = ", part1('day02input.txt'))
+print("Part 1 test answer = ", part1('day02input-testcase1.txt'))
+print("Part 1 answer = ", part1('day02input.txt'))
 #test case worked, but first answer on full didn't (13340)
 #I confused theirchoice and mychoice and scored wins as losses and vice-versa.  Correct second time (11666)
 
