@@ -74,8 +74,8 @@ def part2(inputfile):
     return prioritysum
 
 #print("Part 1 test answer = ", part1('day03input-testcase1.txt'))
-#print("Part 1 answer = ", part1('day03input.txt'))
+print("Part 1 answer = ", part1('day03input.txt'))
 #First try!  7737
-print("Part 1 test answer = ", part2('day03input-testcase1.txt'))
+#print("Part 1 test answer = ", part2('day03input-testcase1.txt'))
 print("Part 2 answer = ", part2('day03input.txt'))
 #First try! 2697
